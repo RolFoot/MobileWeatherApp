@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <!--For display in ListPreferences-->
+  <string-array name="unit_array">
+    <item>Celcius</item>
+    <item>Fareinheit</item>
+    <item>Kelvin</item>
+  </string-array>
+
+  <!--For storing values in ListPreferences-->
+  <string-array name="unit_array_values">
+    <item>metric</item>
+    <item>imperial</item>
+    <item>standart</item>
+  </string-array>
+
+  <!--For display in ListPreferences-->
+  <string-array name="lang_array">
+    <item>Английский</item>
+    <item>Литовский</item>
+    <item>Русский</item>
+  </string-array>
+
+  <!--For storing data in ListPreferences-->
+  <string-array name="lang_array_values">
+    <item>en</item>
+    <item>lt</item>
+    <item>ru</item>
+    <item>pl</item>
+  </string-array>
+  
+</resources>
